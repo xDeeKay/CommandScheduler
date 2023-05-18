@@ -1,0 +1,9 @@
+schedules:
+  WhitelistOn:
+    time: '23:00'
+    commands:
+      - whitelist on
+  WhitelistOff:
+    time: '08:00'
+    commands:
+      - whitelist off

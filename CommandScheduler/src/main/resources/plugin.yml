@@ -1,0 +1,6 @@
+name: CommandScheduler
+version: '1.0'
+description: Schedule commands to be run at specific times in the day.
+author: xDeeKay
+main: net.dkcraft.commandscheduler.Main
+api-version: 1.13
